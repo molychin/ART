@@ -4,12 +4,11 @@ PAINTING SCULPTURE ARCHITECTURE PHOTOGRAPHY
 SEVENTH EDITION
 
 H.H.Arnason,Elizabeth_C.Mansfield
-
+MolyChin 编译
 Modern Art-001
+
 ```
-
-Preface
-
+### Preface
 Since it first appeared in 1968, has emphasized the unique formal properties of art- History of Modern Art works, and the book has long been recognized for the acuity of its visual analysis. To neglect the specifically visual quality of art and architecture would be akin to ignoring the use of language in poetry or the quality of sound in music. Only through close formal analysis can art and its effect on us be fully understood.
 Visual analysis does not, however, constitute art history. The book’s original author, H.H. Arnason, directed readers to consider modern art in terms of “everything that we can learn about the environment that produced it.” The seventh edition of History of Modern Art preserves the text’s sensitive approach to visual analysis while deepening its consideration of the social conditions that have affected the production and reception of modern and contemporary art.
 

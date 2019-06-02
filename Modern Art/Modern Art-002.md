@@ -4,62 +4,68 @@ PAINTING SCULPTURE ARCHITECTURE PHOTOGRAPHY
 SEVENTH EDITION
 
 H.H.Arnason,Elizabeth_C.Mansfield
-
+MolyChin 编译
 Modern Art-002
 ```
 
-The Origins of Modern Art
+|![](res/Abraham Teniers -- Tobacco Collegium of the Apes.jpg)|
+|:---:|
+|Abraham Teniers,猴子的吸烟俱乐部 (Tobacco Collegium of the Apes)|
+
+### The Origins of Modern Art
 “I have seen, and heard, much of cockney impudence before now; but never expected a coxcomb to ask two hundred guineas for flinging a pot of paint in the public’s face.”
 
-### 现代艺术的起源  
-
-**“我以前见过和听到过伦敦人的许多厚颜无耻的行为；但从来没有想到有一个这么不要脸的人会要求两百个几内亚人向公众扔一脸颜料。“  
-John Ruskin，Fors Clavigera，1877年**
-
-John Ruskin, Fors Clavigera, 1877 With this affront, John Ruskin (1819–1900) touched off a firestorm in the staid art world of late Victorian Britain. Ruskin was Britain’s most influential art critic. The target of his attack: James McNeill Whistler’s painting, Nocturne in Black and Gold: The Falling Rocket (fig. 1.1).
-Ruskin’s acidic review—in which he essentially accused the painter of being a charlatan whose only aim was to bilk art collectors of their money—provoked Whistler (1834–1913) to sue the critic for libel. The case went to court in 1878.
-The trial drew many spectators, eager to watch the eminent critic spar with the famously witty artist. Few observers were disappointed: according to newspaper accounts Whistler’s testimony was loaded with irony and sarcasm. For instance, when Ruskin’s attorney, John Holker, questioned the success of Nocturne in Black and Gold, asking of Whistler: “Do you think you could make me see beauty in that picture?”
+John Ruskin, Fors Clavigera, 1877 With this affront, John Ruskin (1819–1900) touched off a firestorm in the staid art world of late Victorian Britain. Ruskin was Britain’s most influential art critic. The target of his attack: James McNeill Whistler’s painting, Nocturne in Black and Gold: The Falling Rocket (fig. 1.1).  
+Ruskin’s acidic review—in which he essentially accused the painter of being a charlatan whose only aim was to bilk art collectors of their money—provoked Whistler (1834–1913) to sue the critic for libel. The case went to court in 1878.  
+The trial drew many spectators, eager to watch the eminent critic spar with the famously witty artist. Few observers were disappointed: according to newspaper accounts Whistler’s testimony was loaded with irony and sarcasm. For instance, when Ruskin’s attorney, John Holker, questioned the success of Nocturne in Black and Gold, asking of Whistler: “Do you think you could make me see beauty in that picture?”  
 Whistler replied dryly: “No … I fear it would be as impossible as for the musician to pour his notes into the ear of a deaf man.”
 
-随着这种冒犯，约翰-罗斯金（John Ruskin，1819-1900）在维多利亚时代晚期英国的沉稳艺术世界中引发了一场风暴。拉斯金是英国最具影响力的艺术评论家。他攻击的目标：詹姆斯-麦克尼尔-惠斯勒（James McNeill Whistler，1834-1913）的绘画，《黑色和金色的夜曲：坠落的烟火》（图1.1）。
-罗斯金的刻薄评论——他几乎就是指责这位画家是个骗子，其唯一的目的就是骗取艺术收藏家们的金钱——这个批评挑起了诽谤案，并于1878年被起诉。
-审判吸引了许多吃瓜观众，他们渴望围观这两位著名的评论家与机智艺术家间的对决。似乎没有让观者感到失望：据报纸报道，惠斯勒的证词充满了讽刺和挖苦。例如，当拉斯金的律师（ John Holker）质疑《黑色和金色夜曲：落下的烟火》的成功时，要求惠斯勒回答：“你认为你能让我看到那张照片中的美女吗？”  
+### 现代艺术的起源  
+*“我以前见过和听到过伦敦人的许多厚颜无耻的行为；但从来没有想到有一个这么不要脸的人会要求两百个几内亚人向观众扔一脸颜料。“  
+John Ruskin，Fors Clavigera，1877年*
+
+随着这种冒犯，约翰-罗斯金（John Ruskin，1819-1900）在维多利亚时代晚期英国的沉稳艺术世界中引发了一场风暴。拉斯金是英国最具影响力的艺术评论家。他攻击的目标：詹姆斯-麦克尼尔-惠斯勒（James McNeill Whistler，1834-1913）的绘画，《黑色和金色的夜曲：坠落的烟火》（图1.1）。  
+罗斯金的刻薄评论——他几乎就是指责这位画家是个骗子，其唯一的目的就是骗取艺术收藏家们的金钱——这个批评挑起了诽谤案，并于1878年被起诉。  
+审判吸引了许多吃瓜观众，他们渴望围观这两位著名的评论家与机智艺术家间的对决。似乎没有让观者感到失望：据报纸报道，惠斯勒的证词充满了讽刺和挖苦。例如，当拉斯金的律师（ John Holker）质疑《黑色和金色夜曲：落下的烟火》的成功时，要求惠斯勒回答：“你认为你能让我看到那张照片中的美女吗？”    
 惠斯勒干巴巴地回答道：“不......我想恐怕音乐家要将他的音符硬塞进聋人的耳中是不可能的。”
 
 |![](res/Whistler_Nocturne_in_Black_and_Gold_The_Falling_Rocket.jpg)|
 |:---:|
 |1.1 詹姆斯·麦克尼尔·惠斯勒，黑色和金色夜曲：坠落的烟火，约1875年。面板上的油，23×18英寸（60.3×46.4 cm）底特律艺术学院，底特律|
 
-As amusing as these theatrics were, there were nonetheless important issues at stake for the history of modern art. In many ways, the defendant in the case was not simply the art critic John Ruskin, but art—especially modern art—itself.
-What was in the balance here? One weighty question concerned the role of art in society. Ruskin believed that art possessed the power to improve society. For him, this was accomplished chiefly through an artwork’s ability to represent nature faithfully. To encounter nature in its purity and grandeur, for Ruskin, was to contemplate the divine.
-Artists who adhered to his doctrine of “truth to nature” could, he thought, promote moral virtue as well as aesthetic pleasure. In Whistler’s Nocturne in Black and Gold, Ruskin found neither the moral nor the pictorial clarity he desired.
+As amusing as these theatrics were, there were nonetheless important issues at stake for the history of modern art. In many ways, the defendant in the case was not simply the art critic John Ruskin, but art—especially modern art—itself.  
+What was in the balance here? One weighty question concerned the role of art in society. Ruskin believed that art possessed the power to improve society. For him, this was accomplished chiefly through an artwork’s ability to represent nature faithfully. To encounter nature in its purity and grandeur, for Ruskin, was to contemplate the divine.  
+Artists who adhered to his doctrine of “truth to nature” could, he thought, promote moral virtue as well as aesthetic pleasure. In Whistler’s Nocturne in Black and Gold, Ruskin found neither the moral nor the pictorial clarity he desired.  
 Whistler’s attempt to capture the dazzling effects of a fireworks display over the Thames through startling, explosive brushwork defied the critic’s understanding of nature as a product of divine creation.
 
 尽管这些插曲很有趣，但现代艺术史的确仍然存在一些的重要问题。在许多方面，**本案的被告不仅仅是艺术评论家约翰·罗斯金，而是艺术，尤其是现代艺术本身。**  
 这里的悬而未决的疑问是什么呢？一个重要的问题是 **艺术在社会中的作用**。罗斯金认为艺术具有改善社会的力量。对他来说，这主要是通过艺术品忠实地表现自然的能力来完成的。对罗斯金来说，为了体验其纯洁和宏伟的自然，就是在思考神圣。  
-他认为，坚持他的“对自然的真理”学说的艺术家可以促进道德美德和审美愉悦。在惠斯勒的《黑色与金色夜曲》中，罗斯金既没有找到他想要的道德标准，也没有找到他想要的画面清晰度。  
+他认为，坚持他的“对自然的真理”学说的艺术家可以促进道德美德和审美愉悦。在惠斯勒的《黑色与金色夜曲》中，罗斯金既没有找到他想要的道德标准，也没有找到他想要的画面清晰度。    
 惠斯勒则试图通过惊人的、爆炸性的笔触捕捉泰晤士河上空烟花表演的眩目效果，这违背了评论家对自然的理解，他认为自然是神圣创造的产物（并非画家的个人臆想可以支配的）。
 
 
 Whistler subscribed to a very different understanding of art’s purpose. An adherent of the doctrine of “Art for Art’s Sake,” Whistler believed that true art served no social purpose whatsoever. Followers of the Art for Art’s Sake doctrine (see Gautier, Preface to Mademoiselle de Maupin, p. 2) held social utility under suspicion if not contempt, believing that a work’s usefulness threatened to detract from its purely aesthetic purpose. “Art,” Whistler explained, “has become foolishly confounded with education.” For supporters of Art for Art’s Sake, beauty was simply the measure of a work’s ability to stimulate a pleasing aesthetic sensation. The trial of Whistler vs. Ruskin pitted not just two men against each other, but provided a forum for the debate between those who looked to art as essential to social progress and those who insisted that art transcended social concerns. This debate would continue long after the conclusion of the trial, with various modernist movements allying themselves to one or the other viewpoint.
 
+|![](res/James_Abbott_McNeill_Whistler_-_Portrait_of_the_Artist's_Mother.jpg)|
+|:---:|
+|惠斯勒，艺术家母亲的肖像(Portrait of the Artist's Mother)|
+
 惠斯勒对艺术的目的有着完全不同的理解。惠斯勒坚持“**为了艺术而艺术（Art for Art’s Sake）**”的学说，他认为真正的艺术根本没有社会目。“为艺术而艺术”的信条（见戈蒂埃-莫平小姐的序言），如果不轻视的话，他们对社会效用持怀疑态度，认为 **一件作品的实用性可能会削弱其纯粹的审美目的**。“艺术”惠斯勒解释说，“已经愚蠢地被教育蒙蔽了。”对于艺术的支持者来说，美仅仅是衡量一件作品是否有能力激发一种令人愉悦的美感。惠斯勒对罗斯金的审判不仅使两个人相互对立，而且为那些认为艺术对社会进步至关重要的人和那些坚持艺术超越社会关注的人之间的辩论提供了一个辩论的舞台。这场辩论将在审判结束后很长一段时间内继续进行，各种现代主义运动都倾向于一个或另一个观点。
 
-SOURCE
+#### SOURCE
 Théophile Gautier
-Preface to Mademoiselle de Maupin (1835) The first statement of Art for Art’s Sake appeared in Gautier’s preface to a novel. Critics and censors found the preface objectionable for its seeming hedonism.
+Preface to Mademoiselle de Maupin (1835) The first statement of Art for Art’s Sake appeared in Gautier’s preface to a novel. Critics and censors found the preface objectionable for its seeming hedonism.  
 …Someone has said somewhere that literature and the arts influence morals. Whoever he was, he was undoubtedly a great fool. It was like saying green peas make the spring grow, whereas peas grow because it is spring…. Nothing that is beautiful is  indispensable to life. You might suppress flowers, and the world would not suffer materially; yet who would wish that there were no flowers? I would rather give up potatoes than roses…. There is nothing truly beautiful but that which can never be of any use whatsoever; everything useful is ugly, for it is the expression of some need, and man’s needs are ignoble and disgusting like his own poor and infirm nature. The most useful place in a house is the water-closet.
 
 ---
 ##### ■资料
 *《Mademoiselle de Maupin的序言》（1835年），"为艺术而艺术"的第一次陈述出现在Gautier的小说序言中。批评家和审查人员认为序言因其看似享乐主义而令人反感。*
 
-......有人在某处说文学和艺术会影响道德。 无论他是谁，他无疑是个傻瓜。 这就像说绿豌豆使春天成长，而豌豆则是因为春天而生长...任何美丽的事物都是生命不可缺少的。你可以压制花朵，世界也不会遭受物质上的痛苦；但谁会希望没有花朵呢？我宁愿放弃土豆而不是玫瑰...世上没有真正美丽的东西，只有那些永远不能用的东西；一切有用的东西都是丑陋的，因为它是某种需要的表达，人的需要是不光彩的，令人厌恶的，就像他自己的贫弱天性一样。房子里最有用的地方是厕所。
+......有人在某处说文学和艺术会影响道德。 无论他是谁，他无疑是个傻瓜。 这就像说绿豌豆使春天成长，而豌豆则是因为春天而生长...任何美丽的事物都是生命不可缺少的。你可以压制花朵，世界也不会遭受物质上的痛苦；但谁会希望没有花朵呢？我宁愿放弃土豆而不是玫瑰...世上没有真正美丽的东西，只有那些永远不能用的东西；一切有用的东西都是丑陋的，因为它是某种需要的表达，人的需要是不光彩的，令人厌恶的，就像他自己的贫弱天性一样。房子里最有用的地方是厕所。  
 
 ---
-
-Making Art and Artists:
-The Role of the Critic
+#### Making Art and Artists:
+##### The Role of the Critic
 
 Ruskin’s insistence on the ability of art to improve society led him to develop ways of bringing fine arts education to members of the working class. In addition to sponsoring art exhibitions and lectures for working-class audiences, Ruskin published a newsletter he hoped would appeal to workingclass readers. It was in this newsletter, Fors Clavigera, that he published his provocative review of Whistler’s painting.
 Ruskin’s advocacy for the working class and his efforts to provide laborers with access to forms of culture typically beyond their experience likewise colored the clash between critic and artist. On the one hand, Ruskin’s condemnation of Whistler’s painting speaks to his interest in supporting art that offers an immediate and accessible social message.
@@ -86,7 +92,6 @@ In the early years of the Salon, the unprecedented access to artworks brought vi
 巴黎沙龙通常每两年举行一次，展出数百件艺术品，主要由法国皇家绘画和雕塑学院的成员创作。此外，还展出有前途的大学生以及杰出的外国艺术家的作品。这是一个官方的公共活动，沙龙向任何想观看展出作品的人开放。其他欧洲国家很快也效仿了法国的做法，到19世纪初，欧洲所有主要首都的定期公共展览数量激增。
 在沙龙的早期阶段，前所未有的艺术作品使观众面对面经常混淆的各种主题，风格和媒体。为了帮助引导游客参观展览，自我任命的审美质量的仲裁者开始写评论，然后以小册子、报纸或私人订阅的形式进行传播。艺术评论家不久就影响到了公众的品味。甚至艺术家偶尔也会听从批评家的建议，寻求公众的认可。
 
-[插入一张表现法国艺术沙龙的绘画]
 |![](res/Henri_Fantin-Latour_-_A_Studio_at_Les_Batignolles.jpg)|
 |:---:|
 |巴蒂诺尔的工作室(Henri Fantin Latour,A Studio at Les Batignolles)|
@@ -132,21 +137,14 @@ Just as indicative of modernism was a pervasive ambivalence toward modernity its
 
 #### 语境
 ##### 现代性与现代主义
-
 西欧和北美的工业化带来了现代性：随着农业就业的减少，促使工人在制造业中寻求就业，城市也随之增长。  
 巴黎和伦敦等城市的人口激增导致了旨在满足这些新公民需求的商业机构的扩张：餐馆、酒吧、剧院、音乐厅、寄宿处和旅馆激增。这些机构创造了更多的就业机会，同时也引入了新的社会习惯和期望。现代性植开始根于城市文化之中，它是指向后工业时代、资本主义社会的条件。在城市文化中，休闲活动和日常生活用品都是商业性的。现代主义只是这种社会组织形式的文化表现。现代主义与进步和新颖的观念相结合，反映了一个社会的主导精神，在这个社会中，新形式的娱乐和生活必需品的消费在人们的日常活动中起着核心作用。现代主义在西方兴起的标志之一是百货公司的出现和购物成为休闲活动的想法。
 正如 **现代主义** 的象征一样，对 **现代性** 本身存在普遍的矛盾心理。正如现代主义的指向是对现代性本身的普遍矛盾。许多人欢迎现代性似乎来源于技术的进步和经济的繁荣。然而，其他人则担心其强调改变和持续改进，并指出资本主义倾向于残酷地剥削工人并使贫困人口陷入悲惨生活条件。与所有形式的现代主义一样，现代艺术是对现代性的各种政治，经济和文化压力的回应。
 
-
-|![](res/James_Abbott_McNeill_Whistler_-_Portrait_of_the_Artist's_Mother.jpg)|
+---
+|![](res/Alexandre Brun- View of the Salon Carre at the Louvre.jpg)|
 |:---:|
-|惠斯勒，艺术家母亲的肖像(Portrait of the Artist's Mother)|
-
-
-
-|![](res/)|
-|:---:|
-||
+|卢浮宫客厅的景色（Alexandre Brun，View of the Salon Carre at the Louvre）|
 
 
 
