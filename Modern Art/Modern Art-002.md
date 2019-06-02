@@ -8,7 +8,7 @@ MolyChin 编译
 Modern Art-002
 ```
 
-|![](res/Abraham Teniers -- Tobacco Collegium of the Apes.jpg)|
+|![](res/Abraham_Teniers_Apes.jpg)|
 |:---:|
 |Abraham Teniers,《猴子的吸烟俱乐部》|
 
@@ -97,7 +97,7 @@ Along with such artists, many critics of modern art sought to bridge the divide 
 另一方面，罗斯金在贬低艺术家的过程中，借鉴了基于阶级的刻板印象。罗斯金把惠斯勒归为“伦敦人的厚颜无耻”一词，这是一种使阶级分化的侮辱语言：19世纪，人们用“伦敦人”这个形容词来形容一个缺乏绅士风度的伦敦人。这样一来，罗斯金不仅利用了惠斯勒对社会地位的敏感度，还揭露了作为区分艺术家与赞助人的一种手段的阶级坚持。正如后面的章节所显示的那样，**艺术家和赞助人之间、创造艺术的人和消费艺术的人之间的这种鸿沟困扰着许多现代艺术家**。  
 与这些艺术家一起，许多现代艺术评论家试图弥合文化与其多样化的潜在受众之间的鸿沟。艺术批评作为一种独特的文学或新闻活动，出现在18世纪，以应对公共场所艺术展览的激增。在此之前，艺术品主要局限于贵族或其他富有收藏家的私人画廊。在在大多数情况下，公众经常只能看到宗教艺术。到18世纪初，这种情况已经发生了改变。不仅是艺术品经销商，甚至拍卖商开始公开展示他们的商品（艺术品），而且整个西欧都在举办大型展览，仿效法国的君主制赞助的公共展览模式。在法国，这些展览之所以被称为沙龙，是因为它们最初在卢浮宫举办的房间而得名。
 
-|![](res/Robert, Hubert -- La Grande Galerie du Louvre entre 1801 et 1805-The great gallery.jpg)|
+|![](res/Robert, Hubert_La.jpg)|
 |:---:|
 |Robert Hubert,《1801年至1805年卢浮宫大画廊》|
 
@@ -145,7 +145,7 @@ With industrialization in Western Europe and North America came modernity: citie
 The population booms in cities such as Paris and London led to an expansion of businesses aimed at serving the needs of these new citizens: restaurants, bars, theaters, music halls, boarding houses, and inns proliferated. These businesses created more jobs while also introducing new social habits and expectations. Rooted in urban culture, where leisure activities as well as daily necessities are available commercially, modernity refers to the condition of post-industrial, capitalist society. Modernism is simply the cultural expression of this form of social organization. Associated with ideas of progress and novelty, modernism reflects the dominant ethos of a society in which consumption—of new forms of entertainment along with the necessities of life—plays a central role in one’s daily activities. One of the signal markers of the rise of modernism in the West was the advent of the department store and the idea of shopping as a leisure activity.  
 Just as indicative of modernism was a pervasive ambivalence toward modernity itself. Many welcomed the technological advances and economic prosperity that modernity seemed to foster. Others, however, were wary of its emphasis on change and continual improvement, noting capitalism’s tendency to exploit workers murderously and to contribute to the deplorable living conditions of the poor. Modern art, like all forms of modernism, is a response to the diverse political, economic, and cultural pressures of modernity.
 
-|![](res/La Princesse du Pays de la Porcelaine.jpg)|
+|![](res/La_Princesse_Porcelaine.jpg)|
 |:---:|
 |惠斯勒，《瓷器之国（中国）的公主》|
 
@@ -156,7 +156,7 @@ Just as indicative of modernism was a pervasive ambivalence toward modernity its
 正如 **现代主义** 的象征一样，对 **现代性** 本身存在普遍的矛盾心理。正如现代主义的指向是对现代性本身的普遍矛盾。许多人欢迎现代性似乎来源于技术的进步和经济的繁荣。然而，其他人则担心其强调改变和持续改进，并指出资本主义倾向于残酷地剥削工人并使贫困人口陷入悲惨生活条件。与所有形式的现代主义一样，现代艺术是对现代性的各种政治，经济和文化压力的回应。
 
 ---
-|![](res/Alexandre Brun- View of the Salon Carre at the Louvre.jpg)|
+|![](res/Alexandre_Brun_View_Louvre.jpg)|
 |:---:|
 |Alexandre Brun，《卢浮宫客厅的景色》|
 
