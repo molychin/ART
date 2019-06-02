@@ -41,7 +41,7 @@ What was in the balance here? One weighty question concerned the role of art in 
 Artists who adhered to his doctrine of “truth to nature” could, he thought, promote moral virtue as well as aesthetic pleasure. In Whistler’s Nocturne in Black and Gold, Ruskin found neither the moral nor the pictorial clarity he desired.  
 Whistler’s attempt to capture the dazzling effects of a fireworks display over the Thames through startling, explosive brushwork defied the critic’s understanding of nature as a product of divine creation.
 
-|![](res/At_the_Piano.jpg)||
+|![](res/At_the_Piano.jpg)|
 |:---:|
 |惠斯勒，《在钢琴旁》，这是画家来到英国后卖出的第一幅作品。|
 
