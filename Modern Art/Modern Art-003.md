@@ -191,6 +191,18 @@ Ingres给古典传统带来的主权品质是绘画，这是他的绘画，他�
 面对某些入侵，西班牙君主制同意与法国皇帝结盟，但他们在前往葡萄牙时，让他的军队自由地掠夺西班牙城镇。在对艺术史上最灼热的战争起诉中，戈雅以报道的生动性和个人的愤慨描述了冲突双方所犯下的暴行。虽然同情启蒙思想的伟大思想家或理性时代所支持的现代思想，戈雅同时专注于人性的非理性方面及其对最怪诞残忍的能力。由于他们的煽动和矛盾的信息，他的版画直到1863年才出版，在他去世后。在他的一生中，戈雅在西班牙境外并不是很有名，尽管他在法国波尔多市自愿流亡的最后几年。一旦他的作品在十九世纪中期由ÉdouardManet重新发现，它对现代绘画的主流产生了强烈的影响。
 
 
+The French Romantic movement really came into its own with Eugène Delacroix (1798–1863)—through his exploration of exotic themes, his accent on violent movement and intense emotion, and, above all, through his reassertion of Baroque color and emancipated brushwork (fig. 1.8). He brought the same qualities to more conventional subjects drawn from literature and history. Not surprisingly, Delacroix felt drawn to scenes taken from Shakespeare,whose characters often succumb to their passions for power or love. Delacroix’s intensive study of the nature and capabilities of color derived not only from the Baroque but also from his contact with English painters such as John Constable, Richard Bonington, and Joseph Mallord William Turner. His greatest originality, however, may lie less in the freedom and breadth of his touch than in the way he juxtaposed colors in blocks of mutually intensifying complementaries, such as vermilion and blue-green or violet and gold, arranged in large sonorous chords or, sometimes, in small, independent, “divided” strokes. These  techniques and their effects had a profound influence on the Impressionists and Post-Impressionists, particularly Vincent van Gogh (who made several copies after Delacroix) and Paul Cézanne.
+
+法国浪漫主义运动真正与尤格内德拉克洛瓦（1798-1863）形成了自己的风格——通过他对异域主题的探索，他对暴力运动和强烈情感的强调，最重要的是，通过他对巴洛克色彩和解放笔法的重新坚持（图1.8）。他把同样的品质带到了更传统的文学和历史学科上。毫不奇怪，德拉克洛瓦对莎士比亚的场景很感兴趣，莎士比亚的人物常常屈服于他们对权力或爱情的激情。德拉克洛瓦对色彩的本质和能力的深入研究不仅源于巴洛克风格，还源于他与英国画家如约翰·康斯特布尔、理查德·邦宁顿和约瑟夫·马洛德·威廉·特纳的接触。然而，他最伟大的创意可能在于他触摸的自由和广度，而不是他把颜色放在一块块相互加强的互补物上，如朱砂、蓝绿色、紫罗兰色和金色，排列成大而响亮的和弦，有时是小而独立的“分裂”笔画。这些技术及其影响对印象派和后印象派有着深远的影响，特别是文森特·梵高（在德拉克洛瓦之后复制了几本）和保罗·C·赞恩。
+
+---
+法国浪漫主义运动真正与EugèneDelacroix（1798-1863）结合在一起 - 通过他对异国主题的探索，他对暴力运动和强烈情感的重视，以及最重要的是，通过重新演绎巴洛克色彩和解放的笔触（无花果） 1.8）。他为文学和历史中更传统的主题带来了同样的品质。毫不奇怪，德拉克洛瓦对莎士比亚拍摄的场景很感兴趣，他们的角色经常屈服于他们对权力或爱情的激情。德拉克洛瓦对色彩的本质和能力的深入研究不仅来自巴洛克，还来自他与英国画家如John Constable，Richard Bonington和Joseph Mallord William Turner的联系。然而，他最大的创意可能不在于他的触摸的自由和广度，而在于他将颜色并置在相互增强的互补性中，例如朱红色和蓝绿色或紫色和金色，以大铿锵的和弦排列，或者，有时，在小的，独立的，“分开的”笔画中。这些技巧及其影响对印象派和后印象派有深远的影响，特别是文森特梵高（在德拉克洛瓦之后制作了几本）和保罗塞尚。
+
+|![](res/2019-6-3-21-45-01.png)|
+|:---:|
+|1.8 Eugène Delacroix, The Lion Hunt, 1861. Oil on canvas, 301⁄8  383⁄4” (76.5  98.4 cm). The Art Institute of Chicago.|
+
+
 |![](res/DAVID_Jacques_Louis_The_Lictors_Returning_to_Brutus_the_Bodies_of_his_Sons.jpg)|
 |:---:|
 |DAVID_Jacques_Louis，Returning_to_Brutus_the_Bodies_of_his_Sons|
@@ -228,6 +240,10 @@ Ingres给古典传统带来的主权品质是绘画，这是他的绘画，他�
 |:---:|
 |Ingres，Comtess_de_Tournon|
 
+
+|![](res/The Duchess of Alba and Her Duenna.jpg)|
+|:---:|
+|戈雅，The Duchess of Alba and Her Duenna|
 
 
 |![](res/)|
